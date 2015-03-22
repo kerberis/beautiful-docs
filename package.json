@@ -11,7 +11,7 @@
 
   "repository" : {
     "type" : "git",
-    "url" : "http://github.com/maximebf/beautiful-docs.git"
+    "url" : "http://github.com/kerberis/beautiful-docs.git"
   },
   
   "engines": {
